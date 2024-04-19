@@ -20,7 +20,6 @@ I'm Angel, I'm currently studying at University of Illinois at Chicago, majoring
 ## Skills
 
 - 💻 Languages: C++, C, Java, SQL
-- 🖥️ Systems: [Operating Systems or Platforms You're Comfortable With]
 
 ## Projects
 
